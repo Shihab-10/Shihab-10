@@ -1,6 +1,6 @@
 
 ```markdown
-# Welcome to My Terminal Universe! 🖥️🌌
+# Welcome to My  Codeverse! 🖥️🌌
 
 Hello, fellow code travelers! I’m **Shihabul Alam** 🧑‍💻—a passionate **Programmer**, **Problem Solver**, and **Tech Explorer**. Dive into my repos and let’s build something awesome together!
 
