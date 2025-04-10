@@ -33,7 +33,7 @@ My coding journey started with raw curiosity—*"How do computers think?"* From 
 
 ## 📊 Programming Language Usage
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihabul&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-10&layout=compact&theme=radical)
 
 ---
 
