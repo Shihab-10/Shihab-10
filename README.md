@@ -1,6 +1,8 @@
 
-```markdown
-# Welcome to My  Codeverse! 🖥️🌌
+
+---
+
+# Welcome to My Codeverse! 🖥️🌌
 
 Hello, fellow code travelers! I’m **Shihabul Alam** 🧑‍💻—a passionate **Programmer**, **Problem Solver**, and **Tech Explorer**. Dive into my repos and let’s build something awesome together!
 
@@ -59,27 +61,3 @@ Well-structured solutions to hundreds of problems from online judges like Codefo
 
 ## 🛠️ Currently Exploring
 
-```plaintext
-[✔️] Competitive Programming
-[✔️] System Design Principles
-[✔️] Clean Code Practices
-[✔️] Debugging Like a Pro
-```
-
----
-
-## 💬 Let's Connect!
-
-I'm always open to learning, collaborating, and sharing knowledge. Let’s code, build, and grow together!
-
-### 🌐 Socials
-
-- **LinkedIn:** [Connect](#)  
-- **GitHub:** [Explore More](https://github.com/shihabul)
-
----
-
-> “Code is like poetry—it’s better when it’s short and meaningful.”  
-> — **Me, probably while debugging at 2 AM**
-
-```
