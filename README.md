@@ -1,63 +1,106 @@
-https://www.canva.com/design/DAGW8HYANcw/sBcJAmxMKTFin9qxrh5xdw/view?utm_content=DAGW8HYANcw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d1887edd9
+<h1 align="center">Shihab</h1>
 
----
+<h3 align="center">Software developer </h3>
 
-# Welcome to My Codeverse! 🖥️🌌
+<h2>About Me</h2>
 
-Hello, fellow code travelers! I’m **Shihabul Alam** 🧑‍💻—a passionate **Programmer**, **Problem Solver**, and **Tech Explorer**. Dive into my repos and let’s build something awesome together!
+I'm a student of department of CIS in Daffodil international university 
 
----
+<h3>Location</h3>
 
-## 🧑‍💻 About Me
+🌍 I'm based in Dhaka, Bangladesh 
 
-**🎓 Education:** Daffodil International University  
-**💻 Languages:** C, C++  
-**🧩 Hobby:** Solving Problems & Tackling Algorithms  
-**🧠 Interests:** Competitive Programming 🧠, System Design 🏗️, Learning New Tools 🛠️  
-**🌍 GitHub Contributions:** Pushing clean code and solving problems with logic ⚙️
+<h3>Pronouns</h3>
 
-**👋 Personal Journey:**  
-My coding journey started with raw curiosity—*"How do computers think?"* From there, I dove deep into C and C++, building up my algorithmic mindset through daily problem-solving. I’m constantly exploring new techniques and sharpening my tools.
+😄 Pronouns: He/Him
 
----
+<h2>Skills</h2>
 
-## 💻 Skills & Tools
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+</p>
 
-![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<h2>GitHub Stats</h2>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shihab-10&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-## 📊 Programming Language Usage
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-10&theme=radical" alt="GitHub Streak" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-10&layout=compact&theme=radical)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab-10&theme=radical" alt="GitHub Activity" />
+</div>
 
----
+<h2>Daily Dev Quote</h2>
 
-## 📈 GitHub Stats
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
 
-![Shihabul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihabul&show_icons=true&theme=radical&count_private=true)
+<h2>GitHub Trophies</h2>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=shihab-10&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
-## 👁️ Visitor Count
+<h2>Profile Views</h2>
 
-![Visitor Count](https://profile-counter.glitch.me/shihabul/count.svg)
-
----
-
-## 🚀 Projects Showcase (Examples)
-
-### 📘 [CP-Diary](https://github.com/shihabul/cp-diary)  
-A collection of my favorite algorithm problems with code and notes. Perfect for interview prep and DSA revision!
-
-### 🧠 [AlgoPractice](https://github.com/shihabul/algopractice)  
-Well-structured solutions to hundreds of problems from online judges like Codeforces, LeetCode, and HackerRank.
-
----
-
-## 🛠️ Currently Exploring
+<img src="https://komarev.com/ghpvc/?username=shihab-10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
