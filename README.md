@@ -103,4 +103,19 @@ I'm a student of department of CIS in Daffodil international university
 <h2>Profile Views</h2>
 
 <img src="https://komarev.com/ghpvc/?username=shihab-10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+[![](https://visitcount.itsvg.in/api?id=nishatkh&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
